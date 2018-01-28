@@ -1,0 +1,16 @@
+--image_dir 
+--output_graph'
+--intermediate_output_graphs_dir'
+--output_labels
+--summaries_dir
+--model_dir
+--bottleneck_dir
+
+
+
+iaugmentations:
+
+--random_crop=
+--random_brightness=
+--random_scale=
+
