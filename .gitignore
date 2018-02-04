@@ -1,2 +1,6 @@
 data/*
 experiments/*
+features/*
+models/*
+results/*
+*.vpz
